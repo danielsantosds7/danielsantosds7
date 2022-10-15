@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Daniel Santos
 
-- 🌱 Estudando C#
+- 🌱 Atualmente estou estudando C# com foco na programação e desenvolvimento de jogos digitais
 - 📫 Contate-me no e-mail: danielsantosds7@gmail.com
 
 <div>
