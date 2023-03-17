@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Daniel Santos
 
 - 🌱 Atualmente estou estudando C# com foco na programação e desenvolvimento de jogos digitais
+- 👨‍💻 Estou atuando como Analista de Sistemas Júnior
 - 📫 Contate-me no e-mail: danielsantosds7@gmail.com
 
 <div>
@@ -9,9 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantosds7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />-
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />-
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />      
 </div>
   
