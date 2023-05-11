@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Santos
 
 - 🌱 Atualmente estou estudando C# com foco na programação e desenvolvimento de jogos digitais e de aplicações Web, SQL Server, Consumo e criação de API's. 
-- 👨‍💻 Estou atuando como Analista de Desenvolvimento de Sistemas Júnior
+- 👨‍💻 Analista de Desenvolvimento de Sistemas Júnior
 - 📫 Contate-me no e-mail: danielsantosds7@gmail.com
 
 <div>
