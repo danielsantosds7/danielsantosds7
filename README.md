@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou estudando C# com foco na programação e desenvolvimento de jogos digitais e de aplicações Web, SQL Server, criação e consumo de API's. 
 - 🧑🏻‍💻 Analista de Desenvolvimento de Sistemas Júnior
-- 👨🏻‍🎓 Jogos Digitais 4/6
+- 👨🏻‍🎓 Jogos Digitais 5/6
 - 📫 Contate-me no e-mail: danielsantosds7@gmail.com
 
 <div>
